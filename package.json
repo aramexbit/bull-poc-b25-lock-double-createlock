@@ -1,0 +1,1 @@
+{"dependencies":{"viem":"^2.57.20"},"description":"PoC for Bull.family bug bounty report B-25: SDK lock() never counts steps or totals — malicious server duplicates createLock and the victim locks twice the amount they asked for (local Anvil only, no real funds).","name":"bull-poc-b25-lock-double-createlock","private":true,"type":"module","version":"1.0.0"}
